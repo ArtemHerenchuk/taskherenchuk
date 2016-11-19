@@ -1,0 +1,84 @@
+	body{
+		padding: 0;
+		display: block;
+		background-image: url(../../../../images/backgrounds/background_dark.jpg); ;
+
+	}
+	
+	.hideme{
+		display: none;
+	}
+	
+	#header {
+		font-size: 40px;
+		text-align: center;
+	}
+
+	#header h3 {
+		color: #f0c040;
+	}
+
+	#centerColumn{
+		padding-top: 50px;
+		padding-left: 90px;
+		width: 100%;
+	}
+	#centerColumn h3 {
+		color: #f0c040;
+	}
+	#centerColumn textarea {
+		width: 80px;
+	}
+
+    #load{
+        padding-left: 100px
+    }
+    #load h3{
+        color: #f0c040;
+    }
+    #load form.download textarea{
+        width: 200px;
+    }
+
+	.download {
+		padding-left: 90px;
+		width: 100%;
+	}
+
+	.download h3,h1 {
+		color: #f0c040;
+	}
+	
+	
+	#footer{
+		clear: both;
+	}
+
+	
+	.menuCaption{
+		padding: 3px;
+		font-weight: bold;
+	}
+
+	.showHidden{
+        text-decoration: underline;
+        color: blue;
+        cursor: pointer;
+    }
+	#picturePage{
+        padding-left: 490px;
+
+	}
+	#picturePage h3{
+		color: navajowhite;
+	}
+    #picturePage img{
+        width: 400px;
+        height: 400px;
+    }
+
+	#openPicture{
+		width: 600px;
+		height: 600px;
+	}
+
